@@ -1,6 +1,6 @@
 function App() {
     return (
-        <div className="w-[55rem] mx-auto flex flex-wrap text-black">
+        <div className="w-[55rem] mx-auto flex flex-wrap text-black body">
 
 
             <div className="bg-[#E4C653] border-4 border-white p-6 min-h-[140px] flex items-start w-[40%] mb-2 h-[12rem]">

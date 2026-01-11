@@ -30,3 +30,7 @@
     -webkit-text-fill-color: transparent;
     /* text-shadow: 1px 1px 1px #2A1A14; */
 }
+
+.body {
+    font-family: "Space Grotesk", sans-serif;
+}
