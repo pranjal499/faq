@@ -1,0 +1,21 @@
+.burst h3 {
+    font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  text-shadow: 2px 2px 1px black;
+}
+
+.faq-heading {
+    font-family: "Stick No Bills", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.faq-info {
+    font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+    font-size: 15px;
+}
