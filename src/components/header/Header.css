@@ -1,8 +1,8 @@
 .burst h3 {
     font-family: "Poppins", sans-serif;
-  font-weight: 800;
-  font-style: normal;
-  text-shadow: 2px 2px 1px black;
+    font-weight: 800;
+    font-style: normal;
+    text-shadow: 2px 2px 1px black;
 }
 
 .faq-heading {
@@ -14,8 +14,19 @@
 
 .faq-info {
     font-family: "Space Grotesk", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
     font-size: 15px;
+}
+
+.title h1 {
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6rem;
+    background: -webkit-linear-gradient(#F4C27A, #C94A2F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* text-shadow: 1px 1px 1px #2A1A14; */
 }

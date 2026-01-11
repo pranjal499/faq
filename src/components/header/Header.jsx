@@ -27,7 +27,7 @@ export default function Header() {
                     </div>
                 </div>
             </div>
-            <div className="title text-center -mt-[3.5rem] mb-[4rem]">
+            <div className="title text-center -mt-[5rem] mb-[4rem] ">
                 <h1 className=''>RAGNAROK</h1>
             </div>
         </div>
